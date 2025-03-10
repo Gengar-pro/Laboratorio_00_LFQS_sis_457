@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Laboratorio_00_LFQS",
+			"Path": "..\\Source\\Laboratorio_00_LFQS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Laboratorio_00_LFQSEditor",
+			"Path": "..\\Source\\Laboratorio_00_LFQSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

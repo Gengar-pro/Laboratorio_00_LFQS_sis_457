@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Laboratorio_00_LFQS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Laboratorio_00_LFQS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Laboratorio_00_LFQSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Laboratorio_00_LFQS">
+      <UniqueIdentifier>{97925A98-14F5-3A02-8798-FA4881129994}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Actor2GameMode.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Actor2GameMode.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Actor3GameMode.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Actor3GameMode.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\ActorGameMode.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\ActorGameMode.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\CustomMovementComponent.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\CustomMovementComponent.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\Laboratorio_00_LFQS\Laboratorio_00_LFQS.Build.cs">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Laboratorio_00_LFQS.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Laboratorio_00_LFQS.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Laboratorio_00_LFQSCharacter.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Laboratorio_00_LFQSCharacter.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Laboratorio_00_LFQSGameMode.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Laboratorio_00_LFQSGameMode.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Rampa.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Rampa.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Rampa2.cpp">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Laboratorio_00_LFQS\Rampa2.h">
+      <Filter>Source\Laboratorio_00_LFQS</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
